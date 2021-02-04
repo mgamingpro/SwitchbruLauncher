@@ -1,5 +1,5 @@
 // Include the most common headers from the C standard library
-// This is an edit of LennyBrew to launch SwitchBru, this is in now affiliated with Switchbru (c)
+// This is an edit of LennyBrew to launch SwitchBru, this is in not in anyway affiliated with Switchbru (c)
 /*  Switchbru Launcher
     Copyright (C) 2021, Syntax64 "Syntax 64" 
 
